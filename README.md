@@ -16,9 +16,9 @@ Positron Emission Tomography (PET) is a functional imaging modality that enables
 ## Citing our work
 If you find the paper useful in your research, please cite these:
 
-                      @article{sun2025posterior,
-                        title={End-to-End PET Image Reconstruction via a Posterior-Mean Diffusion Model},
-                        author={Sun, Yiran and Mawlawi, Osama},
-                        journal={arXiv preprint arXiv:2503.08546},
-                        year={2025}
-                      }
+                @article{sun2025posterior,
+                  title={End-to-End PET Image Reconstruction via a Posterior-Mean Diffusion Model},
+                  author={Sun, Yiran and Mawlawi, Osama},
+                  journal={arXiv preprint arXiv:2503.08546},
+                  year={2025}
+                }
